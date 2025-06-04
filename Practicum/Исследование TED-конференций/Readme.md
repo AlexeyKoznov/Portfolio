@@ -5,7 +5,7 @@
 - Какая средняя длина выступления? Как правильно организовать время проведения конференции?
 - Кто из выступающих интересен зрителям?
 
-Ссылка на дашборд: https://datalens.yandex.cloud/xo35du7owmoqj
+Ссылка на дашборд: [https://datalens.yandex.cloud/xo35du7owmoqj](https://datalens.yandex/xo35du7owmoqj)
 
 ## Навыки и инструменты
 - SQL
