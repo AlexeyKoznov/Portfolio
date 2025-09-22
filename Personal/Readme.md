@@ -4,4 +4,4 @@
 
 | Наименование       | Описание                         | Стек              |
 | ------------------ | :------------------------------: | ----------------- |
-| 1. [Карта ДТП]() |  | Python, pandas, seaborn, matplolib |
+| 1. [Карта ДТП](https://github.com/AlexeyKoznov/Portfolio/tree/main/Personal/karta_dtp) |  | Python, pandas, seaborn, matplolib |
