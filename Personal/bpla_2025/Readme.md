@@ -10,3 +10,4 @@
 - DATALENS
 
 Дашборд:
+![Скриншот дашборда](images/dashboard.png)
