@@ -5,7 +5,7 @@
 Ссылка на дашборд: https://datalens.yandex/vxendhi5oiq8g
 
 <p align="center">
-  <img src="images/images/karta_dtp_diag.jpg" alt="Диаграмма" width="70%">
+  <img src="images/karta_dtp_diag.jpg" alt="Диаграмма" width="70%">
 </p>
 
 ## Навыки и инструменты
