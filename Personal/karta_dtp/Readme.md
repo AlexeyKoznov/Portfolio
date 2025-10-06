@@ -4,6 +4,8 @@
 
 Ссылка на дашборд: https://datalens.yandex/vxendhi5oiq8g
 
+![Диаграмма](images/karta_dtp_diag.jpg)
+
 ## Навыки и инструменты
 - PYTHON
 - PANDAS
